@@ -1,0 +1,10 @@
+D:\C# denemeler\AI_C#_VoiceBot\VoiceBot\VoiceBot\bin\Debug\VoiceBot.exe.config
+D:\C# denemeler\AI_C#_VoiceBot\VoiceBot\VoiceBot\bin\Debug\VoiceBot.exe
+D:\C# denemeler\AI_C#_VoiceBot\VoiceBot\VoiceBot\bin\Debug\VoiceBot.pdb
+D:\C# denemeler\AI_C#_VoiceBot\VoiceBot\VoiceBot\obj\Debug\VoiceBot.csprojAssemblyReference.cache
+D:\C# denemeler\AI_C#_VoiceBot\VoiceBot\VoiceBot\obj\Debug\VoiceBot.Form1.resources
+D:\C# denemeler\AI_C#_VoiceBot\VoiceBot\VoiceBot\obj\Debug\VoiceBot.Properties.Resources.resources
+D:\C# denemeler\AI_C#_VoiceBot\VoiceBot\VoiceBot\obj\Debug\VoiceBot.csproj.GenerateResource.cache
+D:\C# denemeler\AI_C#_VoiceBot\VoiceBot\VoiceBot\obj\Debug\VoiceBot.csproj.CoreCompileInputs.cache
+D:\C# denemeler\AI_C#_VoiceBot\VoiceBot\VoiceBot\obj\Debug\VoiceBot.exe
+D:\C# denemeler\AI_C#_VoiceBot\VoiceBot\VoiceBot\obj\Debug\VoiceBot.pdb
